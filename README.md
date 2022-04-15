@@ -10,6 +10,8 @@
 * [License 📄](#license)
 * [Kanban](./kanban.md)
 
+<h2 id="authors">Authors 👪</h2>
+
 [🏠](#nav "Back home")
 
 * Ricardo Torrellas
