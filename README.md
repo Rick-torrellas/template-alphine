@@ -1,5 +1,7 @@
 # title
 
+[![Website](https://img.shields.io/website?style=plastic&url=https%3A%2F%2Frick-torrellas.github.io%2Ftemplate-main%2F)](https://rick-torrellas.github.io/template-main/) [![Website](https://img.shields.io/website?label=repo&logo=github&style=plastic&url=https%3A%2F%2Fgithub.com%2FRick-torrellas%2Ftemplate-main)](https://github.com/Rick-torrellas/template-main)
+
 <img src="" alt="title" width="20%">
 
 ## Description
@@ -25,6 +27,5 @@
 <img src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1632064143/icons/pill_sakm1z.svg" alt="template" width="3%">
 
 ---
-<div>Icons made by 
-<a href="https://www.flaticon.es/autores/good-ware" title="good-ware">good-ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> 
-is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+<a href="https://www.flaticon.es/iconos-gratis/kanban" title="kanban iconos">Kanban iconos creados por Freepik - Flaticon</a><br>
+<a href="https://www.flaticon.es/iconos-gratis/pildora" title="píldora iconos">Píldora iconos creados por Good Ware - Flaticon</a>
